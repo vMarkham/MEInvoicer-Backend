@@ -1,0 +1,14 @@
+{
+  "name": "meinvoicer-backend",
+  "version": "1.0.0",
+  "description": "A backend for MEInvoicer app built on Node.JS, ExpressJS and PostrgreSQL.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincent Markham",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
